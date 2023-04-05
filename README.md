@@ -15,7 +15,7 @@ Jak uzyskać pomoc w projekcie?
 Jeśli użytkownik potrzebuje pomocy lub ma jakieś pytania związane z projektem, może skontaktować się ze mną poprzez e-mail: sekhirpl19@gmail.com .Postaram się odpowiedzieć na wszystkie pytania możliwie jak najszybciej.
 
 Wymagania sprzętowe
-Gra wymaga systemu operacyjnego Windows 10 (64-bit) oraz zainstalowanego silnika gier Unity.
+Gra wymaga systemu operacyjnego Windows 10 (64-bit).
 
 Autor
 Projekt został stworzony przez Dominik Chłystek w celach edukacyjnych, po części w celu eksperymentalnym, ale w większej mierze w celach edukacyjnych.
