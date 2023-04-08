@@ -43,5 +43,3 @@ The game requires Windows 10 (64-bit) operating system.
 
 Author
 The project was created by Dominik Chłystek for educational purposes, partly for experimental purposes, but more for educational purposes.
-
-Translated with www.DeepL.com/Translator (free version)
