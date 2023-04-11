@@ -20,4 +20,4 @@ The project is a single-player game whose task is to shoot at emerging enemies w
 Hardware requirements
 The game requires Windows 10 (64-bit) operating system.
 
-The project was created by Dominik Chłystek for educational purposes, partly for experimental purposes, but more for educational purposes.
+The project was created by Dominik Chłystek for educational purposes.
