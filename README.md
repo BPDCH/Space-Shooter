@@ -8,7 +8,7 @@ Projektem jest gra dla pojedynczego gracza, którego zadaniem jest strzelanie do
 Wymagania sprzętowe
 Gra wymaga systemu operacyjnego Windows 10 (64-bit).
 
-Projekt został stworzony przez Dominik Chłystek w celach edukacyjnych, po części w celu eksperymentalnym, ale w większej mierze w celach edukacyjnych.
+Projekt został stworzony przez Dominik Chłystek w celach edukacyjnych.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 EN
 # Space-Shooter
